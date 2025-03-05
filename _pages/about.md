@@ -11,7 +11,7 @@ Hi I'm Nipuna Chamara. A research assistant professor at the university of Nebra
 
 My Interests
 ======
-I am passionate about developing innovative technologies to optimize crop production and resource management. My vision is to integrate advanced sensing systems, automation, robust control algorithms, and artificial intelligence to enhance efficiency, reduce waste, and promote sustainable agricultural practices.
+I am passionate about developing innovative technologies to optimize crop production and resource management. My vision is to integrate advanced sensing systems, automation, robust control algorithms, and artificial intelligence to enhance efficiency, reduce waste, and promote sustainable agricultural practices.   
 
 My Education Background
 ======
